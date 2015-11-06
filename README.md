@@ -1,2 +1,2 @@
-# AmazingApp
-A repo for demonstrating git submodules.
+# OtherSuperCoolApp
+Another repo for demonstrating git submodules.
